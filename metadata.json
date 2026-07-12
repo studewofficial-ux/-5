@@ -1,0 +1,6 @@
+{
+  "name": "Studew (스터듀)",
+  "description": "대한민국 중고등학생을 위한 소통, 학습 자료 공유 및 실시간 오픈채팅 커뮤니티 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
